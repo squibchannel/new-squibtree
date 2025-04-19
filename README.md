@@ -1,1 +1,1 @@
-# new-squibtree
+# Squib-Tree Cursor Clone
